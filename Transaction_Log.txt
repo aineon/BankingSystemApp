@@ -1,0 +1,3 @@
+
+Date & Time: 26/08/2022 14:18:42 - Account Number: 10000003 | Customer Name: [Billy Butcher] | TransactionType: Deposit | Amount: €25.00 | New Balance: €175.00
+Date & Time: 26/08/2022 14:28:45 - Account Number: 10000006 | Customer Name: [Hans Gruber] | TransactionType: Withdrawal | Amount: €150.00 | New Balance: €9,999,850.00

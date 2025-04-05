@@ -1,0 +1,17 @@
+
+Date & Time: 26/08/2022 12:06:52 - Account Number: 10000002 | Successful: True |
+Date & Time: 26/08/2022 12:28:10 - Account Number: 10000020 | Successful: False |
+Date & Time: 26/08/2022 12:43:48 - Account Number: 10000002 | Successful: True |
+Date & Time: 26/08/2022 12:44:58 - Account Number: 10000002 | Successful: True |
+Date & Time: 26/08/2022 12:52:44 - Account Number: 10000003 | Successful: False |
+Date & Time: 26/08/2022 13:04:05 - Account Number: 11000002 | Successful: False |
+Date & Time: 26/08/2022 14:17:40 - Account Number: 10000003 | Successful: True |
+Date & Time: 26/08/2022 14:27:43 - Account Number: 10000006 | Successful: True |
+Date & Time: 26/08/2022 14:30:36 - Account Number: 10000006 | Successful: True |
+Date & Time: 26/08/2022 14:31:15 - Account Number: 10000007 | Successful: True |
+Date & Time: 26/08/2022 14:42:20 - Account Number: 10000003 | Successful: True |
+Date & Time: 26/08/2022 14:45:35 - Account Number: 10000004 | Successful: True |
+Date & Time: 26/08/2022 14:48:30 - Account Number: 10000004 | Successful: True |
+Date & Time: 26/08/2022 14:52:02 - Account Number: 10000004 | Successful: True |
+Date & Time: 26/08/2022 14:55:03 - Account Number: 10000004 | Successful: True |
+Date & Time: 26/08/2022 14:59:07 - Account Number: 10000004 | Successful: True |

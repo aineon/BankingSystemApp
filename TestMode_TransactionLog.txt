@@ -1,0 +1,3 @@
+
+Date & Time: 26/08/2022 11:28:54 - Account Number: 10000001 | Customer Name: [Test Account] | TransactionType: Deposit | Amount: €75.00 | New Balance: €10,074.00
+Date & Time: 26/08/2022 11:38:01 - Account Number: 10000001 | Customer Name: [Test Account] | TransactionType: Withdrawal | Amount: €15.00 | New Balance: €10,059.00
